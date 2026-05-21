@@ -1,4 +1,4 @@
-#Java MYSQL Console App
+#Java MYSQL Console App:
 A simple Java console application for managing bookstore records using MySQL and JDBC.
 
 #Features:
